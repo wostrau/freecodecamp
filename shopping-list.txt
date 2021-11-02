@@ -1,0 +1,6 @@
+const myList = [];
+myList.push(['banana', 10]);
+myList.push(['potato', 15]);
+myList.push(['apple', 2]);
+myList.push(['rice', 1]);
+myList.push(['juice', 3]);
