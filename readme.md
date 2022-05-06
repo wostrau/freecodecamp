@@ -1,3 +1,3 @@
-# freecodecamp
+# freeCodeCamp
 
-Database of solutions for different cources of freeCodeCamp
+Database of solutions for different courses from freecodecamp.org
